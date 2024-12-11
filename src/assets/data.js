@@ -1,0 +1,58 @@
+export const data = [
+    {
+        question: "Which device is required for internet connection?",
+        option1: "Modem",
+        option2: "Pen drive",
+        option3: "Lan cable",
+        option4: "Router",
+        ans: 1, 
+    },
+    {
+        question: "Which continent has the least number of countries?",
+        option1: "Africa",
+        option2: "North America",
+        option3: "Asia",
+        option4: "Europe",
+        ans: 3,
+    },
+    {
+        question: "Which planet in our solar system is known as the 'Red Planet'?",
+        option1: "Jupiter", 
+        option2: "Mars", 
+        option3: "Venus",  
+        option4: "Saturn",
+        ans: 2, 
+    },
+    {
+        question: "What is the largest planet in our solar system?",
+        option1: "Earth",
+        option2: "Jupiter",
+        option3: "Mars",
+        option4: "Saturn",
+        ans: 2,
+    },
+    {
+        question: "Who painted the famous Mona Lisa?",
+        option1: "Vincent van Gogh",
+        option2: "Pablo Picasso",
+        option3: "Leonardo da Vinci",
+        option4: "Michelangelo",
+        ans: 3, 
+    },
+    {
+        question: "What is the chemical symbol for water?",
+        option1: "H2O",
+        option2: "CO2",
+        option3: "O2",
+        option4: "N2",
+        ans: 1, 
+    },
+    {
+        question: "Who was the first person to walk on the moon?",
+        option1: "Neil Armstrong",
+        option2: "Buzz Aldrin",
+        option3: "Yuri Gagarin",
+        option4: "Alan Shepard",
+        ans: 1, 
+    }
+];
